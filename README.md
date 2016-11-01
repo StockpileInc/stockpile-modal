@@ -1,6 +1,6 @@
 # Stockpile Modal
 Display information about stocks and brands on your site or web application.
-[See the demo](https://modal.stockpile.com/demo/).
+[See the demo](https://modal.stockpile.com/demo.html).
 
 ![Screenshots](screens.png)
 
