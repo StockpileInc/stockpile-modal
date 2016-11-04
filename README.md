@@ -12,7 +12,7 @@ be a specific brand tied to it, like "Microsoft Xbox" or "Amazon Kindle".
 ## Get Started
 
 ### Step 1: Get your publishable key
-[Send an email request](mailto:partner@stockpile.com?Subject=Stockpile%20Modal&Body=Hello%2C%20I%20would%20like%20to%20use%20the%20Stockpile%20Modal%20on%20my%20website%20and%20would%20like%20a%20publishable%20key.) to get your publishable key.
+[Send an email request](mailto:dl-eng@stockpile.com?Subject=Stockpile%20Modal&Body=Hello%2C%20I%20would%20like%20to%20use%20the%20Stockpile%20Modal%20on%20my%20website%20and%20would%20like%20a%20publishable%20key.) to get your publishable key.
 
 ### Step 2: Add modal markup and initialize the modal
 Add the following markup in your site or web application. You should either
